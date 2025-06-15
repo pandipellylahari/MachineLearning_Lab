@@ -1,6 +1,5 @@
 # MachineLearning_Lab
-
-# WEEK1 TO WEEK-9
+# Week-1 to Week-9
 # Name  : Pandipalli Lahari
 # ID    : B200070
 # Class : CSE-C2
